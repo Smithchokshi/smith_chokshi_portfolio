@@ -38,7 +38,7 @@ const Portfolio = () => {
       <section className="min-h-screen bg-gradient-to-br from-blue-900 via-purple-900 to-pink-900 py-20">
         <div className="container mx-auto px-6">
           <div className="text-center mb-16">
-            <h2 className="text-5xl font-bold mb-6 bg-gradient-to-r from-pink-400 to-violet-400 bg-clip-text text-transparent">
+            <h2 className="text-5xl font-bold mb-6 bg-gradient-to-r from-pink-400 to-violet-400 bg-clip-text text-transparent line-height-class">
               Let's Create Something Amazing
             </h2>
             <p className="text-xl text-gray-300 max-w-2xl mx-auto">

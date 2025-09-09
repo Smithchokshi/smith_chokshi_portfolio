@@ -5,7 +5,7 @@ const Experience = () => {
     <section className="py-24 bg-gradient-to-b from-purple-900 via-indigo-900 to-purple-950">
       <div className="container mx-auto px-4 sm:px-6 md:px-10">
         <div className="text-center mb-16">
-          <h2 className="text-5xl font-bold mb-6 bg-gradient-to-r from-yellow-400 to-orange-400 bg-clip-text text-transparent">
+          <h2 className="text-5xl font-bold mb-6 bg-gradient-to-r from-yellow-400 to-orange-400 bg-clip-text text-transparent line-height-class">
             The Professional Journey
           </h2>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
