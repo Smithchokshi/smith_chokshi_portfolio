@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.line-height-class {
+    line-height: 2 !important;
+}
